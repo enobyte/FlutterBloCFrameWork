@@ -1,0 +1,4 @@
+#Fri Nov 01 16:31:13 WIB 2019
+base.0=/Users/eno/Downloads/BaseFramework/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
